@@ -2,7 +2,7 @@
     "wisata": [{
             "id": 1,
             "nama": "Wisata Gunung Bromo",
-            "gambar_url": "http://dev.farizdotid.com/api/halopwk/gambar/wisata/gambar_1.jpg",
+            "gambar_url": "https://drive.google.com/file/d/1MXHamN1Sf1L0kjp9PpYIBhuc-apdn2if/view?usp=sharing",
             "kategori": "Alam"
         },
         {
