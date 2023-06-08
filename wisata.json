@@ -2,7 +2,7 @@
     "wisata": [{
             "id": 1,
             "nama": "Wisata Gunung Bromo",
-            "gambar_url": "https://drive.google.com/file/d/1MXHamN1Sf1L0kjp9PpYIBhuc-apdn2if/view?usp=sharing",
+            "gambar_url": "https://drive.google.com/file/d/1MXHamN1Sf1L0kjp9PpYIBhuc-apdn2if/view",
             "kategori": "Alam"
         },
         {
