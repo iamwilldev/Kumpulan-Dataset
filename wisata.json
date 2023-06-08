@@ -1,0 +1,16 @@
+{
+  "wisata": [
+    {
+      "id": 1,
+      "nama": "Alun-Alun Kian Santang",
+      "gambar_url": "http://dev.farizdotid.com/api/halopwk/gambar/wisata/gambar_1.jpg",
+      "kategori": "Taman"
+    },
+    {
+      "id": 2,
+      "nama": "Leuwi Cidomas",
+      "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
+      "kategori": "Alam"
+    }
+  ]
+}
