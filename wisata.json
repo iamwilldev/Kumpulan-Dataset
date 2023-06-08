@@ -2,7 +2,7 @@
     "wisata": [{
             "id": 1,
             "nama": "Wisata Gunung Bromo",
-            "gambar_url": "https://raw.githubusercontent.com/iamwilldev/File-PSBF/master/Data%20PPB/bromo/2dcf62937cfead2131c4c0a0eafebbf0.jpg?token=GHSAT0AAAAAACCS2RC5PJRQ35OQCNZV75SOZECBZBQ",
+            "gambar_url": "https://srv622-files.hstgr.io/7c88e86b622c5f32/api/preview/big/public_html/Data%20PPB/bromo/2dcf62937cfead2131c4c0a0eafebbf0.jpg?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoxLCJsb2NhbGUiOiJlbl9HQiIsInZpZXdNb2RlIjoibGlzdCIsInNpbmdsZUNsaWNrIjpmYWxzZSwicGVybSI6eyJhZG1pbiI6ZmFsc2UsImV4ZWN1dGUiOmZhbHNlLCJjcmVhdGUiOnRydWUsInJlbmFtZSI6dHJ1ZSwibW9kaWZ5Ijp0cnVlLCJkZWxldGUiOnRydWUsInNoYXJlIjpmYWxzZSwiZG93bmxvYWQiOnRydWV9LCJjb21tYW5kcyI6W10sImxvY2tQYXNzd29yZCI6dHJ1ZSwiaGlkZURvdGZpbGVzIjpmYWxzZSwiZGF0ZUZvcm1hdCI6ZmFsc2V9LCJpc3MiOiJGaWxlIEJyb3dzZXIiLCJleHAiOjE2ODYyNTEzMTQsImlhdCI6MTY4NjI0NDExNH0.aZ7vzq-4atncr5JEdQwtybIL-6UEvT3JFcCpGzSAVkI&inline=true&key=1686241183230",
             "kategori": "Alam"
         },
         {
