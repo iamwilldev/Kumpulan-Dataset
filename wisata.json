@@ -1,15 +1,27 @@
 {
     "wisata": [{
             "id": 1,
-            "nama": "Alun-Alun Kian Santang",
+            "nama": "Wisata Gunung Bromo",
             "gambar_url": "http://dev.farizdotid.com/api/halopwk/gambar/wisata/gambar_1.jpg",
-            "kategori": "Taman"
+            "kategori": "Alam"
         },
         {
             "id": 2,
-            "nama": "Leuwi Cidomas",
+            "nama": "Jatim Park 1",
             "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
-            "kategori": "Alam"
+            "kategori": "Taman"
+        },
+        {
+            "id": 3,
+            "nama": "Jatim Park 2",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
+            "kategori": "Taman"
+        },
+        {
+            "id": 4,
+            "nama": "Museum Angkut",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
+            "kategori": "Museum"
         }
     ]
 }
