@@ -22,6 +22,36 @@
             "nama": "Museum Angkut",
             "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
             "kategori": "Museum"
-        }
+        },
+        {
+            "id": 5,
+            "nama": "Museum Angkut",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
+            "kategori": "Museum"
+        },
+        {
+            "id": 6,
+            "nama": "Museum Angkut",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
+            "kategori": "Museum"
+        },
+        {
+            "id": 7,
+            "nama": "Museum Angkut",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
+            "kategori": "Museum"
+        },
+        {
+            "id": 8,
+            "nama": "Museum Angkut",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
+            "kategori": "Museum"
+        },
+        {
+            "id": 9,
+            "nama": "Museum Angkut",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
+            "kategori": "Museum"
+        } 
     ]
 }
