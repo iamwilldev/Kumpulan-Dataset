@@ -1,5 +1,5 @@
-{
-  "id": [{
+[
+  {
     "id": 1,
     "nama": "Kampung Andir",
     "gambar_url": "http://dev.farizdotid.com/api/halopwk/gambar/wisata/gambar_6.jpg",
@@ -20,4 +20,3 @@
     "longitude": "0"
   }
 ]
-}
