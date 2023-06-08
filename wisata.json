@@ -2,7 +2,7 @@
     "wisata": [{
             "id": 1,
             "nama": "Wisata Gunung Bromo",
-            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
+            "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/bromo/2dcf62937cfead2131c4c0a0eafebbf0.jpg?raw=true",
             "kategori": "Alam"
         },
         {
