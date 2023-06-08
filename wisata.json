@@ -8,50 +8,50 @@
         {
             "id": 2,
             "nama": "Jatim Park 1",
-            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
+            "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/jatimpark%201/cf10ae6b8e2e24d5e094d076566fce62.jpg?raw=true",
             "kategori": "Taman"
         },
         {
             "id": 3,
             "nama": "Jatim Park 2",
-            "gambar_url": "https://srv622-files.hstgr.io/7c88e86b622c5f32/api/preview/big/public_html/Data%20PPB/bromo/2dcf62937cfead2131c4c0a0eafebbf0.jpg?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoxLCJsb2NhbGUiOiJlbl9HQiIsInZpZXdNb2RlIjoibGlzdCIsInNpbmdsZUNsaWNrIjpmYWxzZSwicGVybSI6eyJhZG1pbiI6ZmFsc2UsImV4ZWN1dGUiOmZhbHNlLCJjcmVhdGUiOnRydWUsInJlbmFtZSI6dHJ1ZSwibW9kaWZ5Ijp0cnVlLCJkZWxldGUiOnRydWUsInNoYXJlIjpmYWxzZSwiZG93bmxvYWQiOnRydWV9LCJjb21tYW5kcyI6W10sImxvY2tQYXNzd29yZCI6dHJ1ZSwiaGlkZURvdGZpbGVzIjpmYWxzZSwiZGF0ZUZvcm1hdCI6ZmFsc2V9LCJpc3MiOiJGaWxlIEJyb3dzZXIiLCJleHAiOjE2ODYyNTEzMTQsImlhdCI6MTY4NjI0NDExNH0.aZ7vzq-4atncr5JEdQwtybIL-6UEvT3JFcCpGzSAVkI&inline=true&key=1686241183230",
+            "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/jatimpark%202/jejak-kenzie_jatim-park-2-04.jpg?raw=true",
             "kategori": "Taman"
         },
         {
             "id": 4,
-            "nama": "Mdsfsdt",
-            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
+            "nama": "Museum Angkut",
+            "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/museum%20angkut/2683bb32b8ac1089d1c30cb5c74b305c.jpg?raw=true",
             "kategori": "Museum"
         },
         {
             "id": 5,
-            "nama": "dsfsdgkut",
-            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
-            "kategori": "Museum"
+            "nama": "Coban Rondo Waterfall",
+            "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/Coban%20Rondo%20Waterfall/7b35711078c2ea34ac2235f152afc8ba.jpg?raw=true",
+            "kategori": "Alam"
         },
         {
             "id": 6,
-            "nama": "Mudsfkut",
-            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
-            "kategori": "Museum"
+            "nama": "Selecta",
+            "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/Selecta%20Batu/462c85c6212c60e1c37f606062ee0eff.jpg?raw=true",
+            "kategori": "Taman"
         },
         {
             "id": 7,
-            "nama": "Mudsft",
-            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
-            "kategori": "Museum"
+            "nama": "Kampung Warna Warni",
+            "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/Kampung%20Warna-Warni%20Jodipan/e14d93a15eaa1ba6e9d1d4915cc276ac.jpg?raw=true",
+            "kategori": "Kampung"
         },
         {
             "id": 8,
-            "nama": "dsfdt",
-            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
-            "kategori": "Museum"
+            "nama": "Batu Night Spectacular (BNS)",
+            "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/bns/dbee16cb2f21ed5dc32a4725c421dc0b.jpg?raw=true",
+            "kategori": "Taman"
         },
         {
             "id": 9,
-            "nama": "fsdf",
-            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
-            "kategori": "Museum"
+            "nama": "Pantai Balekambang",
+            "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/Pantai%20Balekambang/edcf943de20376793b3fda2f61db700b.jpg?raw=true",
+            "kategori": "Pantai"
         } 
     ]
 }
