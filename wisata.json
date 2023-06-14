@@ -10,49 +10,57 @@
             "id": 2,
             "nama": "Jatim Park 1",
             "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/jatimpark%201/cf10ae6b8e2e24d5e094d076566fce62.jpg?raw=true",
-            "kategori": "Taman"
+            "kategori": "Taman",
+            "deskripsi": "fkjshdkjfhskfjsdjfsjfsj"
         },
         {
             "id": 3,
             "nama": "Jatim Park 2",
             "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/jatimpark%202/jejak-kenzie_jatim-park-2-04.jpg?raw=true",
-            "kategori": "Taman"
+            "kategori": "Taman",
+            "deskripsi": "fkjshdkjfhskfjsdjfsjfsj"
         },
         {
             "id": 4,
             "nama": "Museum Angkut",
             "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/museum%20angkut/2683bb32b8ac1089d1c30cb5c74b305c.jpg?raw=true",
-            "kategori": "Museum"
+            "kategori": "Museum",
+            "deskripsi": "fkjshdkjfhskfjsdjfsjfsj"
         },
         {
             "id": 5,
             "nama": "Coban Rondo Waterfall",
             "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/Coban%20Rondo%20Waterfall/7b35711078c2ea34ac2235f152afc8ba.jpg?raw=true",
-            "kategori": "Alam"
+            "kategori": "Alam",
+            "deskripsi": "fkjshdkjfhskfjsdjfsjfsj"
         },
         {
             "id": 6,
             "nama": "Selecta",
             "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/Selecta%20Batu/462c85c6212c60e1c37f606062ee0eff.jpg?raw=true",
-            "kategori": "Taman"
+            "kategori": "Taman",
+            "deskripsi": "fkjshdkjfhskfjsdjfsjfsj"
         },
         {
             "id": 7,
             "nama": "Kampung Warna Warni",
             "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/Kampung%20Warna-Warni%20Jodipan/e14d93a15eaa1ba6e9d1d4915cc276ac.jpg?raw=true",
-            "kategori": "Kampung"
+            "kategori": "Kampung",
+            "deskripsi": "fkjshdkjfhskfjsdjfsjfsj"
         },
         {
             "id": 8,
             "nama": "Batu Night Spectacular (BNS)",
             "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/bns/dbee16cb2f21ed5dc32a4725c421dc0b.jpg?raw=true",
-            "kategori": "Taman"
+            "kategori": "Taman",
+            "deskripsi": "fkjshdkjfhskfjsdjfsjfsj"
         },
         {
             "id": 9,
             "nama": "Pantai Balekambang",
             "gambar_url": "https://github.com/iamwilldev/File-PSBF/blob/master/Data%20PPB/Pantai%20Balekambang/edcf943de20376793b3fda2f61db700b.jpg?raw=true",
-            "kategori": "Pantai"
+            "kategori": "Pantai",
+            "deskripsi": "fkjshdkjfhskfjsdjfsjfsj"
         } 
     ]
 }
